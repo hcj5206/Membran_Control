@@ -1,0 +1,48 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Membran_Contorl" GeneratedClassName="Menbran_config">
+  <Profiles />
+  <Settings>
+    <Setting Name="table_width" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">3140</Value>
+    </Setting>
+    <Setting Name="table_height" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">1230</Value>
+    </Setting>
+    <Setting Name="db_host" Type="System.String" Scope="User">
+      <Value Profile="(Default)">192.168.31.250</Value>
+    </Setting>
+    <Setting Name="db_name" Type="System.String" Scope="User">
+      <Value Profile="(Default)">hanhai_manufacture</Value>
+    </Setting>
+    <Setting Name="db_user" Type="System.String" Scope="User">
+      <Value Profile="(Default)">chk</Value>
+    </Setting>
+    <Setting Name="db_pass" Type="System.String" Scope="User">
+      <Value Profile="(Default)">12345678</Value>
+    </Setting>
+    <Setting Name="Factory" Type="System.String" Scope="User">
+      <Value Profile="(Default)">瀚海</Value>
+    </Setting>
+    <Setting Name="db_mang_name" Type="System.String" Scope="User">
+      <Value Profile="(Default)">hanhai_management</Value>
+    </Setting>
+    <Setting Name="Check_days" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="待接单状态" Type="System.String" Scope="User">
+      <Value Profile="(Default)">10</Value>
+    </Setting>
+    <Setting Name="加工中状态" Type="System.String" Scope="User">
+      <Value Profile="(Default)">15</Value>
+    </Setting>
+    <Setting Name="加工完成状态" Type="System.String" Scope="User">
+      <Value Profile="(Default)">20</Value>
+    </Setting>
+    <Setting Name="State_done" Type="System.String" Scope="User">
+      <Value Profile="(Default)">100</Value>
+    </Setting>
+    <Setting Name="State_undone" Type="System.String" Scope="User">
+      <Value Profile="(Default)">95</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

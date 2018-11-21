@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <PublishUrlHistory>C:\Users\hcj\Desktop\模压软件\|D:\win发布\Membran\|D:\win发布\|D:\閭撳墶姊乗瀹跺叿鐢熶骇\Win绋嬪簭\鏈湴鍙戝竷\Membrane-local\|C:\Users\LYS\Desktop\程序\</PublishUrlHistory>
+    <InstallUrlHistory>http://192.168.31.250/win/Membran/|http://192.168.31.250/hanhai_update/win/Membran/|http://192.168.31.250/win/Package/|\\LOCAL-SERVER\htdocs\win\Membran\|\\LOCAL-SERVER\htdocs\win\</InstallUrlHistory>
+    <SupportUrlHistory />
+    <UpdateUrlHistory />
+    <BootstrapperUrlHistory />
+    <ErrorReportUrlHistory />
+    <FallbackCulture>zh-CN</FallbackCulture>
+    <VerifyUploadedFiles>false</VerifyUploadedFiles>
+  </PropertyGroup>
+  <PropertyGroup>
+    <EnableSecurityDebugging>false</EnableSecurityDebugging>
+  </PropertyGroup>
+</Project>

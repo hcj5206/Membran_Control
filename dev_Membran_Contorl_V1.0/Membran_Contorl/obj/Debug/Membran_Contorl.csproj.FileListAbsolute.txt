@@ -1,0 +1,434 @@
+C:\Users\Deng Kowalski\Desktop\Membran_Contorl0507A\Membran_Contorl\bin\Debug\Membran_Contorl.exe.config
+C:\Users\Deng Kowalski\Desktop\Membran_Contorl0507A\Membran_Contorl\bin\Debug\Membran_Contorl.exe.manifest
+C:\Users\Deng Kowalski\Desktop\Membran_Contorl0507A\Membran_Contorl\bin\Debug\Membran_Contorl.application
+C:\Users\Deng Kowalski\Desktop\Membran_Contorl0507A\Membran_Contorl\bin\Debug\Membran_Contorl.exe
+C:\Users\Deng Kowalski\Desktop\Membran_Contorl0507A\Membran_Contorl\bin\Debug\Membran_Contorl.pdb
+C:\Users\Deng Kowalski\Desktop\Membran_Contorl0507A\Membran_Contorl\obj\Debug\Membran_Contorl.Form1.resources
+C:\Users\Deng Kowalski\Desktop\Membran_Contorl0507A\Membran_Contorl\obj\Debug\Membran_Contorl.Properties.Resources.resources
+C:\Users\Deng Kowalski\Desktop\Membran_Contorl0507A\Membran_Contorl\obj\Debug\Membran_Contorl.csproj.GenerateResource.Cache
+C:\Users\Deng Kowalski\Desktop\Membran_Contorl0507A\Membran_Contorl\obj\Debug\Membran_Contorl.exe.manifest
+C:\Users\Deng Kowalski\Desktop\Membran_Contorl0507A\Membran_Contorl\obj\Debug\Membran_Contorl.application
+C:\Users\Deng Kowalski\Desktop\Membran_Contorl0507A\Membran_Contorl\obj\Debug\Membran_Contorl.exe
+C:\Users\Deng Kowalski\Desktop\Membran_Contorl0507A\Membran_Contorl\obj\Debug\Membran_Contorl.pdb
+C:\Users\Deng Kowalski\Desktop\Membran_Contorl0602A\Membran_Contorl\bin\Debug\Membran_Contorl.exe.config
+C:\Users\Deng Kowalski\Desktop\Membran_Contorl0602A\Membran_Contorl\obj\Debug\Membran_Contorl.exe
+C:\Users\Deng Kowalski\Desktop\Membran_Contorl0602A\Membran_Contorl\obj\Debug\Membran_Contorl.pdb
+C:\Users\Deng Kowalski\Desktop\Membran_Contorl0602A\Membran_Contorl\bin\Debug\Membran_Contorl.exe.manifest
+C:\Users\Deng Kowalski\Desktop\Membran_Contorl0602A\Membran_Contorl\bin\Debug\Membran_Contorl.application
+C:\Users\Deng Kowalski\Desktop\Membran_Contorl0602A\Membran_Contorl\bin\Debug\Membran_Contorl.exe
+C:\Users\Deng Kowalski\Desktop\Membran_Contorl0602A\Membran_Contorl\bin\Debug\Membran_Contorl.pdb
+C:\Users\Deng Kowalski\Desktop\Membran_Contorl0602A\Membran_Contorl\obj\Debug\Membran_Contorl.csprojResolveAssemblyReference.cache
+C:\Users\Deng Kowalski\Desktop\Membran_Contorl0602A\Membran_Contorl\obj\Debug\Membran_Contorl.Form1.resources
+C:\Users\Deng Kowalski\Desktop\Membran_Contorl0602A\Membran_Contorl\obj\Debug\Membran_Contorl.Properties.Resources.resources
+C:\Users\Deng Kowalski\Desktop\Membran_Contorl0602A\Membran_Contorl\obj\Debug\Membran_Contorl.csproj.GenerateResource.Cache
+C:\Users\Deng Kowalski\Desktop\Membran_Contorl0602A\Membran_Contorl\obj\Debug\Membran_Contorl.exe.manifest
+C:\Users\Deng Kowalski\Desktop\Membran_Contorl0602A\Membran_Contorl\obj\Debug\Membran_Contorl.application
+C:\Users\Deng Kowalski\Desktop\Membran_Contorl0603A\Membran_Contorl\bin\Debug\Membran_Contorl.exe.config
+C:\Users\Deng Kowalski\Desktop\Membran_Contorl0603A\Membran_Contorl\obj\Debug\Membran_Contorl.exe
+C:\Users\Deng Kowalski\Desktop\Membran_Contorl0603A\Membran_Contorl\obj\Debug\Membran_Contorl.pdb
+C:\Users\hcj\Desktop\Membran_Contorl0603A\Membran_Contorl\bin\Debug\Membran_Contorl.exe.config
+C:\Users\hcj\Desktop\Membran_Contorl0603A\Membran_Contorl\obj\Debug\Membran_Contorl.exe
+C:\Users\hcj\Desktop\Membran_Contorl0603A\Membran_Contorl\obj\Debug\Membran_Contorl.pdb
+C:\Users\hcj\Desktop\Membran_Contorl0603A\Membran_Contorl\obj\Debug\Membran_Contorl.csprojResolveAssemblyReference.cache
+C:\Users\hcj\Desktop\Membran_Contorl0603A\Membran_Contorl\obj\Debug\Membran_Contorl.Form1.resources
+C:\Users\hcj\Desktop\Membran_Contorl0603A\Membran_Contorl\obj\Debug\Membran_Contorl.Properties.Resources.resources
+C:\Users\hcj\Desktop\Membran_Contorl0603A\Membran_Contorl\obj\Debug\Membran_Contorl.csproj.GenerateResource.Cache
+C:\Users\hcj\Desktop\工作室\hanhai\Membran_Contorl0603A\Membran_Contorl\bin\Debug\Membran_Contorl.exe.config
+C:\Users\hcj\Desktop\工作室\hanhai\Membran_Contorl0603A\Membran_Contorl\obj\Debug\Membran_Contorl.exe
+C:\Users\hcj\Desktop\工作室\hanhai\Membran_Contorl0603A\Membran_Contorl\obj\Debug\Membran_Contorl.pdb
+C:\Users\hcj\Desktop\工作室\hanhai\Membran_Contorl0603A\Membran_Contorl\obj\Debug\Membran_Contorl.csprojResolveAssemblyReference.cache
+C:\Users\hcj\Desktop\工作室\hanhai\Membran_Contorl0603A\Membran_Contorl\obj\Debug\Membran_Contorl.Form1.resources
+C:\Users\hcj\Desktop\工作室\hanhai\Membran_Contorl0603A\Membran_Contorl\obj\Debug\Membran_Contorl.Properties.Resources.resources
+C:\Users\hcj\Desktop\工作室\hanhai\Membran_Contorl0603A\Membran_Contorl\obj\Debug\Membran_Contorl.csproj.GenerateResource.Cache
+C:\Users\hcj\Desktop\工作室\hanhai\Membran_Contorl0603A\Membran_Contorl\bin\Debug\Membran_Contorl.exe.manifest
+C:\Users\hcj\Desktop\工作室\hanhai\Membran_Contorl0603A\Membran_Contorl\bin\Debug\Membran_Contorl.application
+C:\Users\hcj\Desktop\工作室\hanhai\Membran_Contorl0603A\Membran_Contorl\bin\Debug\Membran_Contorl.exe
+C:\Users\hcj\Desktop\工作室\hanhai\Membran_Contorl0603A\Membran_Contorl\bin\Debug\Membran_Contorl.pdb
+C:\Users\hcj\Desktop\工作室\hanhai\Membran_Contorl0603A\Membran_Contorl\obj\Debug\Membran_Contorl.exe.manifest
+C:\Users\hcj\Desktop\工作室\hanhai\Membran_Contorl0603A\Membran_Contorl\obj\Debug\Membran_Contorl.application
+C:\Users\hcj\Desktop\工作室\hanhai\Membran_Contorl0715-hcj\Membran_Contorl\bin\Debug\Membran_Contorl.exe.config
+C:\Users\hcj\Desktop\工作室\hanhai\Membran_Contorl0715-hcj\Membran_Contorl\obj\Debug\Membran_Contorl.exe
+C:\Users\hcj\Desktop\工作室\hanhai\Membran_Contorl0715-hcj\Membran_Contorl\obj\Debug\Membran_Contorl.pdb
+C:\Users\hcj\Desktop\工作室\hanhai\Membran_Contorl0715-hcj\Membran_Contorl\bin\Debug\Membran_Contorl.exe.manifest
+C:\Users\hcj\Desktop\工作室\hanhai\Membran_Contorl0715-hcj\Membran_Contorl\bin\Debug\Membran_Contorl.application
+C:\Users\hcj\Desktop\工作室\hanhai\Membran_Contorl0715-hcj\Membran_Contorl\bin\Debug\Membran_Contorl.exe
+C:\Users\hcj\Desktop\工作室\hanhai\Membran_Contorl0715-hcj\Membran_Contorl\bin\Debug\Membran_Contorl.pdb
+C:\Users\hcj\Desktop\工作室\hanhai\Membran_Contorl0715-hcj\Membran_Contorl\obj\Debug\Membran_Contorl.csprojResolveAssemblyReference.cache
+C:\Users\hcj\Desktop\工作室\hanhai\Membran_Contorl0715-hcj\Membran_Contorl\obj\Debug\Membran_Contorl.Form1.resources
+C:\Users\hcj\Desktop\工作室\hanhai\Membran_Contorl0715-hcj\Membran_Contorl\obj\Debug\Membran_Contorl.Properties.Resources.resources
+C:\Users\hcj\Desktop\工作室\hanhai\Membran_Contorl0715-hcj\Membran_Contorl\obj\Debug\Membran_Contorl.csproj.GenerateResource.Cache
+C:\Users\hcj\Desktop\工作室\hanhai\Membran_Contorl0715-hcj\Membran_Contorl\obj\Debug\Membran_Contorl.exe.manifest
+C:\Users\hcj\Desktop\工作室\hanhai\Membran_Contorl0715-hcj\Membran_Contorl\obj\Debug\Membran_Contorl.application
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Membran_Contorl0715-hcj\Membran_Contorl\bin\Debug\Membran_Contorl.exe.config
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Membran_Contorl0715-hcj\Membran_Contorl\obj\Debug\Membran_Contorl.exe
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Membran_Contorl0715-hcj\Membran_Contorl\obj\Debug\Membran_Contorl.pdb
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Membran_Contorl0715-hcj\Membran_Contorl\bin\Debug\Membran_Contorl.exe.manifest
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Membran_Contorl0715-hcj\Membran_Contorl\bin\Debug\Membran_Contorl.application
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Membran_Contorl0715-hcj\Membran_Contorl\bin\Debug\Membran_Contorl.exe
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Membran_Contorl0715-hcj\Membran_Contorl\bin\Debug\Membran_Contorl.pdb
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Membran_Contorl0715-hcj\Membran_Contorl\obj\Debug\Membran_Contorl.csprojResolveAssemblyReference.cache
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Membran_Contorl0715-hcj\Membran_Contorl\obj\Debug\Membran_Contorl.Form1.resources
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Membran_Contorl0715-hcj\Membran_Contorl\obj\Debug\Membran_Contorl.Properties.Resources.resources
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Membran_Contorl0715-hcj\Membran_Contorl\obj\Debug\Membran_Contorl.csproj.GenerateResource.Cache
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Membran_Contorl0715-hcj\Membran_Contorl\obj\Debug\Membran_Contorl.exe.manifest
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Membran_Contorl0715-hcj\Membran_Contorl\obj\Debug\Membran_Contorl.application
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Membran_Contorl0716-hcj\Membran_Contorl\bin\Debug\Membran_Contorl.exe.config
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Membran_Contorl0716-hcj\Membran_Contorl\obj\Debug\Membran_Contorl.exe
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Membran_Contorl0716-hcj\Membran_Contorl\obj\Debug\Membran_Contorl.pdb
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Membran_Contorl0716-hcj\Membran_Contorl\bin\Debug\Membran_Contorl.exe.manifest
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Membran_Contorl0716-hcj\Membran_Contorl\bin\Debug\Membran_Contorl.application
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Membran_Contorl0716-hcj\Membran_Contorl\bin\Debug\Membran_Contorl.exe
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Membran_Contorl0716-hcj\Membran_Contorl\bin\Debug\Membran_Contorl.pdb
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Membran_Contorl0716-hcj\Membran_Contorl\obj\Debug\Membran_Contorl.csprojResolveAssemblyReference.cache
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Membran_Contorl0716-hcj\Membran_Contorl\obj\Debug\Membran_Contorl.Form1.resources
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Membran_Contorl0716-hcj\Membran_Contorl\obj\Debug\Membran_Contorl.Properties.Resources.resources
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Membran_Contorl0716-hcj\Membran_Contorl\obj\Debug\Membran_Contorl.csproj.GenerateResource.Cache
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Membran_Contorl0716-hcj\Membran_Contorl\obj\Debug\Membran_Contorl.exe.manifest
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Membran_Contorl0716-hcj\Membran_Contorl\obj\Debug\Membran_Contorl.application
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Membran_Contorl0722-hcj\Membran_Contorl\bin\Debug\Membran_Contorl.exe.config
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Membran_Contorl0722-hcj\Membran_Contorl\obj\Debug\Membran_Contorl.exe
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Membran_Contorl0722-hcj\Membran_Contorl\obj\Debug\Membran_Contorl.pdb
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Membran_Contorl0722-hcj\Membran_Contorl\bin\Debug\Membran_Contorl.exe.manifest
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Membran_Contorl0722-hcj\Membran_Contorl\bin\Debug\Membran_Contorl.application
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Membran_Contorl0722-hcj\Membran_Contorl\bin\Debug\Membran_Contorl.exe
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Membran_Contorl0722-hcj\Membran_Contorl\bin\Debug\Membran_Contorl.pdb
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Membran_Contorl0722-hcj\Membran_Contorl\obj\Debug\Membran_Contorl.csprojResolveAssemblyReference.cache
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Membran_Contorl0722-hcj\Membran_Contorl\obj\Debug\Membran_Contorl.Form1.resources
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Membran_Contorl0722-hcj\Membran_Contorl\obj\Debug\Membran_Contorl.Properties.Resources.resources
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Membran_Contorl0722-hcj\Membran_Contorl\obj\Debug\Membran_Contorl.csproj.GenerateResource.Cache
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Membran_Contorl0722-hcj\Membran_Contorl\obj\Debug\Membran_Contorl.exe.manifest
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Membran_Contorl0722-hcj\Membran_Contorl\obj\Debug\Membran_Contorl.application
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Membran_Contorl0723A-hcj\Membran_Contorl\bin\Debug\Membran_Contorl.exe.config
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Membran_Contorl0723A-hcj\Membran_Contorl\obj\Debug\Membran_Contorl.exe
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Membran_Contorl0723A-hcj\Membran_Contorl\obj\Debug\Membran_Contorl.pdb
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Membran_Contorl0723B-hcj\Membran_Contorl\bin\Debug\Membran_Contorl.exe.config
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Membran_Contorl0723B-hcj\Membran_Contorl\obj\Debug\Membran_Contorl.exe
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Membran_Contorl0723B-hcj\Membran_Contorl\obj\Debug\Membran_Contorl.pdb
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Membran_Contorl0724A-hcj\Membran_Contorl\bin\Debug\Membran_Contorl.exe.config
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Membran_Contorl0724A-hcj\Membran_Contorl\obj\Debug\Membran_Contorl.exe
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Membran_Contorl0724A-hcj\Membran_Contorl\obj\Debug\Membran_Contorl.pdb
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Membran_Contorl0724A-hcj\Membran_Contorl\bin\Debug\Membran_Contorl.exe.manifest
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Membran_Contorl0724A-hcj\Membran_Contorl\bin\Debug\Membran_Contorl.application
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Membran_Contorl0724A-hcj\Membran_Contorl\bin\Debug\Membran_Contorl.exe
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Membran_Contorl0724A-hcj\Membran_Contorl\bin\Debug\Membran_Contorl.pdb
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Membran_Contorl0724A-hcj\Membran_Contorl\obj\Debug\Membran_Contorl.csprojResolveAssemblyReference.cache
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Membran_Contorl0724A-hcj\Membran_Contorl\obj\Debug\Membran_Contorl.Form1.resources
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Membran_Contorl0724A-hcj\Membran_Contorl\obj\Debug\Membran_Contorl.Properties.Resources.resources
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Membran_Contorl0724A-hcj\Membran_Contorl\obj\Debug\Membran_Contorl.csproj.GenerateResource.Cache
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Membran_Contorl0724A-hcj\Membran_Contorl\obj\Debug\Membran_Contorl.exe.manifest
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Membran_Contorl0724A-hcj\Membran_Contorl\obj\Debug\Membran_Contorl.application
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Membran_control\Membran_Contorl0724A-hcj\Membran_Contorl\bin\Debug\Membran_Contorl.exe.config
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Membran_control\Membran_Contorl0724A-hcj\Membran_Contorl\bin\Debug\Membran_Contorl.exe.manifest
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Membran_control\Membran_Contorl0724A-hcj\Membran_Contorl\bin\Debug\Membran_Contorl.application
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Membran_control\Membran_Contorl0724A-hcj\Membran_Contorl\bin\Debug\Membran_Contorl.exe
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Membran_control\Membran_Contorl0724A-hcj\Membran_Contorl\bin\Debug\Membran_Contorl.pdb
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Membran_control\Membran_Contorl0724A-hcj\Membran_Contorl\obj\Debug\Membran_Contorl.csprojResolveAssemblyReference.cache
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Membran_control\Membran_Contorl0724A-hcj\Membran_Contorl\obj\Debug\Membran_Contorl.Form1.resources
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Membran_control\Membran_Contorl0724A-hcj\Membran_Contorl\obj\Debug\Membran_Contorl.Properties.Resources.resources
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Membran_control\Membran_Contorl0724A-hcj\Membran_Contorl\obj\Debug\Membran_Contorl.csproj.GenerateResource.Cache
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Membran_control\Membran_Contorl0724A-hcj\Membran_Contorl\obj\Debug\Membran_Contorl.exe.manifest
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Membran_control\Membran_Contorl0724A-hcj\Membran_Contorl\obj\Debug\Membran_Contorl.application
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Membran_control\Membran_Contorl0724A-hcj\Membran_Contorl\obj\Debug\Membran_Contorl.exe
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Membran_control\Membran_Contorl0724A-hcj\Membran_Contorl\obj\Debug\Membran_Contorl.pdb
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Membran_control\Membran_Contorl0727A-hcj\Membran_Contorl\bin\Debug\Membran_Contorl.exe.config
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Membran_control\Membran_Contorl0727A-hcj\Membran_Contorl\obj\Debug\Membran_Contorl.exe
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Membran_control\Membran_Contorl0727A-hcj\Membran_Contorl\obj\Debug\Membran_Contorl.pdb
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Membran_control\Membran_Contorl0727A-hcj\Membran_Contorl\bin\Debug\Membran_Contorl.exe.manifest
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Membran_control\Membran_Contorl0727A-hcj\Membran_Contorl\bin\Debug\Membran_Contorl.application
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Membran_control\Membran_Contorl0727A-hcj\Membran_Contorl\bin\Debug\Membran_Contorl.exe
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Membran_control\Membran_Contorl0727A-hcj\Membran_Contorl\bin\Debug\Membran_Contorl.pdb
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Membran_control\Membran_Contorl0727A-hcj\Membran_Contorl\obj\Debug\Membran_Contorl.csprojResolveAssemblyReference.cache
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Membran_control\Membran_Contorl0727A-hcj\Membran_Contorl\obj\Debug\Membran_Contorl.Form1.resources
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Membran_control\Membran_Contorl0727A-hcj\Membran_Contorl\obj\Debug\Membran_Contorl.Properties.Resources.resources
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Membran_control\Membran_Contorl0727A-hcj\Membran_Contorl\obj\Debug\Membran_Contorl.csproj.GenerateResource.Cache
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Membran_control\Membran_Contorl0727A-hcj\Membran_Contorl\obj\Debug\Membran_Contorl.exe.manifest
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Membran_control\Membran_Contorl0727A-hcj\Membran_Contorl\obj\Debug\Membran_Contorl.application
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Membran_control\Membran_Contorl0730A-hcj\Membran_Contorl\bin\Debug\Membran_Contorl.exe.config
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Membran_control\Membran_Contorl0730A-hcj\Membran_Contorl\obj\Debug\Membran_Contorl.exe
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Membran_control\Membran_Contorl0730A-hcj\Membran_Contorl\obj\Debug\Membran_Contorl.pdb
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Membran_control\Membran_Contorl0730A-hcj\Membran_Contorl\bin\Debug\Membran_Contorl.exe.manifest
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Membran_control\Membran_Contorl0730A-hcj\Membran_Contorl\bin\Debug\Membran_Contorl.application
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Membran_control\Membran_Contorl0730A-hcj\Membran_Contorl\bin\Debug\Membran_Contorl.exe
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Membran_control\Membran_Contorl0730A-hcj\Membran_Contorl\bin\Debug\Membran_Contorl.pdb
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Membran_control\Membran_Contorl0730A-hcj\Membran_Contorl\obj\Debug\Membran_Contorl.csprojResolveAssemblyReference.cache
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Membran_control\Membran_Contorl0730A-hcj\Membran_Contorl\obj\Debug\Membran_Contorl.Form1.resources
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Membran_control\Membran_Contorl0730A-hcj\Membran_Contorl\obj\Debug\Membran_Contorl.Properties.Resources.resources
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Membran_control\Membran_Contorl0730A-hcj\Membran_Contorl\obj\Debug\Membran_Contorl.csproj.GenerateResource.Cache
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Membran_control\Membran_Contorl0730A-hcj\Membran_Contorl\obj\Debug\Membran_Contorl.exe.manifest
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Membran_control\Membran_Contorl0730A-hcj\Membran_Contorl\obj\Debug\Membran_Contorl.application
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Membran_control\Membran_Contorl0731A-hcj\Membran_Contorl\bin\Debug\Membran_Contorl.exe.config
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Membran_control\Membran_Contorl0731A-hcj\Membran_Contorl\obj\Debug\Membran_Contorl.exe
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Membran_control\Membran_Contorl0731A-hcj\Membran_Contorl\obj\Debug\Membran_Contorl.pdb
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Membran_control\Membran_Contorl0731A-hcj\Membran_Contorl\bin\Debug\Membran_Contorl.exe.manifest
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Membran_control\Membran_Contorl0731A-hcj\Membran_Contorl\bin\Debug\Membran_Contorl.application
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Membran_control\Membran_Contorl0731A-hcj\Membran_Contorl\bin\Debug\Membran_Contorl.exe
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Membran_control\Membran_Contorl0731A-hcj\Membran_Contorl\bin\Debug\Membran_Contorl.pdb
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Membran_control\Membran_Contorl0731A-hcj\Membran_Contorl\obj\Debug\Membran_Contorl.csprojResolveAssemblyReference.cache
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Membran_control\Membran_Contorl0731A-hcj\Membran_Contorl\obj\Debug\Membran_Contorl.Form1.resources
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Membran_control\Membran_Contorl0731A-hcj\Membran_Contorl\obj\Debug\Membran_Contorl.Properties.Resources.resources
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Membran_control\Membran_Contorl0731A-hcj\Membran_Contorl\obj\Debug\Membran_Contorl.csproj.GenerateResource.Cache
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Membran_control\Membran_Contorl0731A-hcj\Membran_Contorl\obj\Debug\Membran_Contorl.exe.manifest
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Membran_control\Membran_Contorl0731A-hcj\Membran_Contorl\obj\Debug\Membran_Contorl.application
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Membran_control\Membran_Contorl0731A-hcj稳定\Membran_Contorl\bin\Debug\Membran_Contorl.exe.config
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Membran_control\Membran_Contorl0731A-hcj稳定\Membran_Contorl\obj\Debug\Membran_Contorl.exe
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Membran_control\Membran_Contorl0731A-hcj稳定\Membran_Contorl\obj\Debug\Membran_Contorl.pdb
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Membran_control\Membran_Contorl0731A-hcj稳定\Membran_Contorl\bin\Debug\Membran_Contorl.exe.manifest
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Membran_control\Membran_Contorl0731A-hcj稳定\Membran_Contorl\bin\Debug\Membran_Contorl.application
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Membran_control\Membran_Contorl0731A-hcj稳定\Membran_Contorl\bin\Debug\Membran_Contorl.exe
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Membran_control\Membran_Contorl0731A-hcj稳定\Membran_Contorl\bin\Debug\Membran_Contorl.pdb
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Membran_control\Membran_Contorl0731A-hcj稳定\Membran_Contorl\obj\Debug\Membran_Contorl.csprojResolveAssemblyReference.cache
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Membran_control\Membran_Contorl0731A-hcj稳定\Membran_Contorl\obj\Debug\Membran_Contorl.Form1.resources
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Membran_control\Membran_Contorl0731A-hcj稳定\Membran_Contorl\obj\Debug\Membran_Contorl.Properties.Resources.resources
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Membran_control\Membran_Contorl0731A-hcj稳定\Membran_Contorl\obj\Debug\Membran_Contorl.csproj.GenerateResource.Cache
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Membran_control\Membran_Contorl0731A-hcj稳定\Membran_Contorl\obj\Debug\Membran_Contorl.exe.manifest
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Membran_control\Membran_Contorl0731A-hcj稳定\Membran_Contorl\obj\Debug\Membran_Contorl.application
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Membran_control\Membran_Contorl0802A-hcj\Membran_Contorl\bin\Debug\Membran_Contorl.exe.config
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Membran_control\Membran_Contorl0802A-hcj\Membran_Contorl\obj\Debug\Membran_Contorl.exe
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Membran_control\Membran_Contorl0802A-hcj\Membran_Contorl\obj\Debug\Membran_Contorl.pdb
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Membran_control\Membran_Contorl0802A-hcj\Membran_Contorl\bin\Debug\Membran_Contorl.exe.manifest
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Membran_control\Membran_Contorl0802A-hcj\Membran_Contorl\bin\Debug\Membran_Contorl.application
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Membran_control\Membran_Contorl0802A-hcj\Membran_Contorl\bin\Debug\Membran_Contorl.exe
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Membran_control\Membran_Contorl0802A-hcj\Membran_Contorl\bin\Debug\Membran_Contorl.pdb
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Membran_control\Membran_Contorl0802A-hcj\Membran_Contorl\obj\Debug\Membran_Contorl.csprojResolveAssemblyReference.cache
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Membran_control\Membran_Contorl0802A-hcj\Membran_Contorl\obj\Debug\Membran_Contorl.Form1.resources
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Membran_control\Membran_Contorl0802A-hcj\Membran_Contorl\obj\Debug\Membran_Contorl.Properties.Resources.resources
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Membran_control\Membran_Contorl0802A-hcj\Membran_Contorl\obj\Debug\Membran_Contorl.csproj.GenerateResource.Cache
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Membran_control\Membran_Contorl0802A-hcj\Membran_Contorl\obj\Debug\Membran_Contorl.exe.manifest
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Membran_control\Membran_Contorl0802A-hcj\Membran_Contorl\obj\Debug\Membran_Contorl.application
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Membran_control\Membran_Contorl0802A-hcj-稳定\Membran_Contorl\bin\Debug\Membran_Contorl.exe.config
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Membran_control\Membran_Contorl0802A-hcj-稳定\Membran_Contorl\obj\Debug\Membran_Contorl.exe
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Membran_control\Membran_Contorl0802A-hcj-稳定\Membran_Contorl\obj\Debug\Membran_Contorl.pdb
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Membran_control\Membran_Contorl0802A-hcj-稳定\Membran_Contorl\bin\Debug\Membran_Contorl.exe.manifest
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Membran_control\Membran_Contorl0802A-hcj-稳定\Membran_Contorl\bin\Debug\Membran_Contorl.application
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Membran_control\Membran_Contorl0802A-hcj-稳定\Membran_Contorl\bin\Debug\Membran_Contorl.exe
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Membran_control\Membran_Contorl0802A-hcj-稳定\Membran_Contorl\bin\Debug\Membran_Contorl.pdb
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Membran_control\Membran_Contorl0802A-hcj-稳定\Membran_Contorl\obj\Debug\Membran_Contorl.csprojResolveAssemblyReference.cache
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Membran_control\Membran_Contorl0802A-hcj-稳定\Membran_Contorl\obj\Debug\Membran_Contorl.Form1.resources
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Membran_control\Membran_Contorl0802A-hcj-稳定\Membran_Contorl\obj\Debug\Membran_Contorl.Properties.Resources.resources
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Membran_control\Membran_Contorl0802A-hcj-稳定\Membran_Contorl\obj\Debug\Membran_Contorl.csproj.GenerateResource.Cache
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Membran_control\Membran_Contorl0802A-hcj-稳定\Membran_Contorl\obj\Debug\Membran_Contorl.exe.manifest
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Membran_control\Membran_Contorl0802A-hcj-稳定\Membran_Contorl\obj\Debug\Membran_Contorl.application
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Membran_control\Membran_Contorl0803A-hcj-测试\Membran_Contorl\bin\Debug\Membran_Contorl.exe.config
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Membran_control\Membran_Contorl0803A-hcj-测试\Membran_Contorl\obj\Debug\Membran_Contorl.exe
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Membran_control\Membran_Contorl0803A-hcj-测试\Membran_Contorl\obj\Debug\Membran_Contorl.pdb
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Membran_control\Membran_Contorl0803A-hcj-测试\Membran_Contorl\bin\Debug\Membran_Contorl.exe.manifest
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Membran_control\Membran_Contorl0803A-hcj-测试\Membran_Contorl\bin\Debug\Membran_Contorl.application
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Membran_control\Membran_Contorl0803A-hcj-测试\Membran_Contorl\bin\Debug\Membran_Contorl.exe
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Membran_control\Membran_Contorl0803A-hcj-测试\Membran_Contorl\bin\Debug\Membran_Contorl.pdb
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Membran_control\Membran_Contorl0803A-hcj-测试\Membran_Contorl\obj\Debug\Membran_Contorl.csprojResolveAssemblyReference.cache
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Membran_control\Membran_Contorl0803A-hcj-测试\Membran_Contorl\obj\Debug\Membran_Contorl.Form1.resources
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Membran_control\Membran_Contorl0803A-hcj-测试\Membran_Contorl\obj\Debug\Membran_Contorl.Properties.Resources.resources
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Membran_control\Membran_Contorl0803A-hcj-测试\Membran_Contorl\obj\Debug\Membran_Contorl.csproj.GenerateResource.Cache
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Membran_control\Membran_Contorl0803A-hcj-测试\Membran_Contorl\obj\Debug\Membran_Contorl.exe.manifest
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Membran_control\Membran_Contorl0803A-hcj-测试\Membran_Contorl\obj\Debug\Membran_Contorl.application
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Membran_control\Membran_Contorl0805-hcj-测试 - 副本\Membran_Contorl\bin\Debug\Membran_Contorl.exe.config
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Membran_control\Membran_Contorl0805-hcj-测试 - 副本\Membran_Contorl\obj\Debug\Membran_Contorl.exe
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Membran_control\Membran_Contorl0805-hcj-测试 - 副本\Membran_Contorl\obj\Debug\Membran_Contorl.pdb
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Membran_control\Membran_Contorl0805-hcj-测试 - 副本\Membran_Contorl\bin\Debug\Membran_Contorl.exe.manifest
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Membran_control\Membran_Contorl0805-hcj-测试 - 副本\Membran_Contorl\bin\Debug\Membran_Contorl.application
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Membran_control\Membran_Contorl0805-hcj-测试 - 副本\Membran_Contorl\bin\Debug\Membran_Contorl.exe
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Membran_control\Membran_Contorl0805-hcj-测试 - 副本\Membran_Contorl\bin\Debug\Membran_Contorl.pdb
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Membran_control\Membran_Contorl0805-hcj-测试 - 副本\Membran_Contorl\obj\Debug\Membran_Contorl.csprojResolveAssemblyReference.cache
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Membran_control\Membran_Contorl0805-hcj-测试 - 副本\Membran_Contorl\obj\Debug\Membran_Contorl.Form1.resources
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Membran_control\Membran_Contorl0805-hcj-测试 - 副本\Membran_Contorl\obj\Debug\Membran_Contorl.Properties.Resources.resources
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Membran_control\Membran_Contorl0805-hcj-测试 - 副本\Membran_Contorl\obj\Debug\Membran_Contorl.csproj.GenerateResource.Cache
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Membran_control\Membran_Contorl0805-hcj-测试 - 副本\Membran_Contorl\obj\Debug\Membran_Contorl.exe.manifest
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Membran_control\Membran_Contorl0805-hcj-测试 - 副本\Membran_Contorl\obj\Debug\Membran_Contorl.application
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Membran_control\Membran_Contorl0805A-hcj-稳定-\Membran_Contorl\bin\Debug\Membran_Contorl.exe.config
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Membran_control\Membran_Contorl0805A-hcj-稳定-\Membran_Contorl\obj\Debug\Membran_Contorl.exe
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Membran_control\Membran_Contorl0805A-hcj-稳定-\Membran_Contorl\obj\Debug\Membran_Contorl.pdb
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Membran_control\Membran_Contorl0805A-hcj-稳定-\Membran_Contorl\bin\Debug\Membran_Contorl.exe.manifest
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Membran_control\Membran_Contorl0805A-hcj-稳定-\Membran_Contorl\bin\Debug\Membran_Contorl.application
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Membran_control\Membran_Contorl0805A-hcj-稳定-\Membran_Contorl\bin\Debug\Membran_Contorl.exe
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Membran_control\Membran_Contorl0805A-hcj-稳定-\Membran_Contorl\bin\Debug\Membran_Contorl.pdb
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Membran_control\Membran_Contorl0805A-hcj-稳定-\Membran_Contorl\obj\Debug\Membran_Contorl.csprojResolveAssemblyReference.cache
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Membran_control\Membran_Contorl0805A-hcj-稳定-\Membran_Contorl\obj\Debug\Membran_Contorl.Form1.resources
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Membran_control\Membran_Contorl0805A-hcj-稳定-\Membran_Contorl\obj\Debug\Membran_Contorl.Properties.Resources.resources
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Membran_control\Membran_Contorl0805A-hcj-稳定-\Membran_Contorl\obj\Debug\Membran_Contorl.csproj.GenerateResource.Cache
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Membran_control\Membran_Contorl0805A-hcj-稳定-\Membran_Contorl\obj\Debug\Membran_Contorl.exe.manifest
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Membran_control\Membran_Contorl0805A-hcj-稳定-\Membran_Contorl\obj\Debug\Membran_Contorl.application
+F:\hcj文档\资料\workspace_hcj\hanhai\Membran_control\Membran_Contorl0805A-hcj-稳定-\Membran_Contorl\bin\Debug\Membran_Contorl.exe.config
+F:\hcj文档\资料\workspace_hcj\hanhai\Membran_control\Membran_Contorl0805A-hcj-稳定-\Membran_Contorl\obj\Debug\Membran_Contorl.exe
+F:\hcj文档\资料\workspace_hcj\hanhai\Membran_control\Membran_Contorl0805A-hcj-稳定-\Membran_Contorl\obj\Debug\Membran_Contorl.pdb
+F:\hcj文档\资料\workspace_hcj\hanhai\Membran_control\Membran_Contorl0805A-hcj-稳定-\Membran_Contorl\obj\Debug\Membran_Contorl.csprojResolveAssemblyReference.cache
+F:\hcj文档\资料\workspace_hcj\hanhai\Membran_control\Membran_Contorl0805A-hcj-稳定-\Membran_Contorl\obj\Debug\Membran_Contorl.Form1.resources
+F:\hcj文档\资料\workspace_hcj\hanhai\Membran_control\Membran_Contorl0805A-hcj-稳定-\Membran_Contorl\obj\Debug\Membran_Contorl.Properties.Resources.resources
+F:\hcj文档\资料\workspace_hcj\hanhai\Membran_control\Membran_Contorl0805A-hcj-稳定-\Membran_Contorl\obj\Debug\Membran_Contorl.csproj.GenerateResource.Cache
+F:\hcj文档\资料\workspace_hcj\hanhai\Membran_control\Membran_Contorl0805A-hcj-稳定-\Membran_Contorl\bin\Debug\Membran_Contorl.exe.manifest
+F:\hcj文档\资料\workspace_hcj\hanhai\Membran_control\Membran_Contorl0805A-hcj-稳定-\Membran_Contorl\bin\Debug\Membran_Contorl.application
+F:\hcj文档\资料\workspace_hcj\hanhai\Membran_control\Membran_Contorl0805A-hcj-稳定-\Membran_Contorl\bin\Debug\Membran_Contorl.exe
+F:\hcj文档\资料\workspace_hcj\hanhai\Membran_control\Membran_Contorl0805A-hcj-稳定-\Membran_Contorl\bin\Debug\Membran_Contorl.pdb
+F:\hcj文档\资料\workspace_hcj\hanhai\Membran_control\Membran_Contorl0805A-hcj-稳定-\Membran_Contorl\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+F:\hcj文档\资料\workspace_hcj\hanhai\Membran_control\Membran_Contorl0805A-hcj-稳定-\Membran_Contorl\obj\Debug\Membran_Contorl.exe.manifest
+F:\hcj文档\资料\workspace_hcj\hanhai\Membran_control\Membran_Contorl0805A-hcj-稳定-\Membran_Contorl\obj\Debug\Membran_Contorl.application
+F:\hcj文档\资料\workspace_hcj\hanhai\Membran_control\Membran_Contorl0818A-hcj-摆床\Membran_Contorl\bin\Debug\Membran_Contorl.exe.config
+F:\hcj文档\资料\workspace_hcj\hanhai\Membran_control\Membran_Contorl0818A-hcj-摆床\Membran_Contorl\obj\Debug\Membran_Contorl.exe
+F:\hcj文档\资料\workspace_hcj\hanhai\Membran_control\Membran_Contorl0818A-hcj-摆床\Membran_Contorl\obj\Debug\Membran_Contorl.pdb
+F:\hcj文档\资料\workspace_hcj\hanhai\Membran_control\Membran_Contorl0818A-hcj-摆床\Membran_Contorl\bin\Debug\Membran_Contorl.exe.manifest
+F:\hcj文档\资料\workspace_hcj\hanhai\Membran_control\Membran_Contorl0818A-hcj-摆床\Membran_Contorl\bin\Debug\Membran_Contorl.application
+F:\hcj文档\资料\workspace_hcj\hanhai\Membran_control\Membran_Contorl0818A-hcj-摆床\Membran_Contorl\bin\Debug\Membran_Contorl.exe
+F:\hcj文档\资料\workspace_hcj\hanhai\Membran_control\Membran_Contorl0818A-hcj-摆床\Membran_Contorl\bin\Debug\Membran_Contorl.pdb
+F:\hcj文档\资料\workspace_hcj\hanhai\Membran_control\Membran_Contorl0818A-hcj-摆床\Membran_Contorl\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+F:\hcj文档\资料\workspace_hcj\hanhai\Membran_control\Membran_Contorl0818A-hcj-摆床\Membran_Contorl\obj\Debug\Membran_Contorl.csprojResolveAssemblyReference.cache
+F:\hcj文档\资料\workspace_hcj\hanhai\Membran_control\Membran_Contorl0818A-hcj-摆床\Membran_Contorl\obj\Debug\Membran_Contorl.Form1.resources
+F:\hcj文档\资料\workspace_hcj\hanhai\Membran_control\Membran_Contorl0818A-hcj-摆床\Membran_Contorl\obj\Debug\Membran_Contorl.Properties.Resources.resources
+F:\hcj文档\资料\workspace_hcj\hanhai\Membran_control\Membran_Contorl0818A-hcj-摆床\Membran_Contorl\obj\Debug\Membran_Contorl.csproj.GenerateResource.Cache
+F:\hcj文档\资料\workspace_hcj\hanhai\Membran_control\Membran_Contorl0818A-hcj-摆床\Membran_Contorl\obj\Debug\Membran_Contorl.exe.manifest
+F:\hcj文档\资料\workspace_hcj\hanhai\Membran_control\Membran_Contorl0818A-hcj-摆床\Membran_Contorl\obj\Debug\Membran_Contorl.application
+F:\hcj文档\资料\workspace_hcj\hanhai\Membran_control\Membran_Contorl0820A-hcj 副本\Membran_Contorl\bin\Debug\Membran_Contorl.exe.config
+F:\hcj文档\资料\workspace_hcj\hanhai\Membran_control\Membran_Contorl0820A-hcj 副本\Membran_Contorl\obj\Debug\Membran_Contorl.exe
+F:\hcj文档\资料\workspace_hcj\hanhai\Membran_control\Membran_Contorl0820A-hcj 副本\Membran_Contorl\obj\Debug\Membran_Contorl.pdb
+F:\hcj文档\资料\workspace_hcj\hanhai\Membran_control\Membran_Contorl0820A-hcj 副本\Membran_Contorl\bin\Debug\Membran_Contorl.exe.manifest
+F:\hcj文档\资料\workspace_hcj\hanhai\Membran_control\Membran_Contorl0820A-hcj 副本\Membran_Contorl\bin\Debug\Membran_Contorl.application
+F:\hcj文档\资料\workspace_hcj\hanhai\Membran_control\Membran_Contorl0820A-hcj 副本\Membran_Contorl\bin\Debug\Membran_Contorl.exe
+F:\hcj文档\资料\workspace_hcj\hanhai\Membran_control\Membran_Contorl0820A-hcj 副本\Membran_Contorl\bin\Debug\Membran_Contorl.pdb
+F:\hcj文档\资料\workspace_hcj\hanhai\Membran_control\Membran_Contorl0820A-hcj 副本\Membran_Contorl\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+F:\hcj文档\资料\workspace_hcj\hanhai\Membran_control\Membran_Contorl0820A-hcj 副本\Membran_Contorl\obj\Debug\Membran_Contorl.csprojResolveAssemblyReference.cache
+F:\hcj文档\资料\workspace_hcj\hanhai\Membran_control\Membran_Contorl0820A-hcj 副本\Membran_Contorl\obj\Debug\Membran_Contorl.Form1.resources
+F:\hcj文档\资料\workspace_hcj\hanhai\Membran_control\Membran_Contorl0820A-hcj 副本\Membran_Contorl\obj\Debug\Membran_Contorl.Properties.Resources.resources
+F:\hcj文档\资料\workspace_hcj\hanhai\Membran_control\Membran_Contorl0820A-hcj 副本\Membran_Contorl\obj\Debug\Membran_Contorl.csproj.GenerateResource.Cache
+F:\hcj文档\资料\workspace_hcj\hanhai\Membran_control\Membran_Contorl0820A-hcj 副本\Membran_Contorl\obj\Debug\Membran_Contorl.exe.manifest
+F:\hcj文档\资料\workspace_hcj\hanhai\Membran_control\Membran_Contorl0820A-hcj 副本\Membran_Contorl\obj\Debug\Membran_Contorl.application
+F:\hcj文档\资料\workspace_hcj\hanhai\Membran_control\Membran_Contorl0829A-hcj 副本\Membran_Contorl\bin\Debug\Membran_Contorl.exe.config
+F:\hcj文档\资料\workspace_hcj\hanhai\Membran_control\Membran_Contorl0829A-hcj 副本\Membran_Contorl\obj\Debug\Membran_Contorl.exe
+F:\hcj文档\资料\workspace_hcj\hanhai\Membran_control\Membran_Contorl0829A-hcj 副本\Membran_Contorl\obj\Debug\Membran_Contorl.pdb
+F:\hcj文档\资料\workspace_hcj\hanhai\Membran_control\Membran_Contorl0829A-hcj 副本\Membran_Contorl\bin\Debug\Membran_Contorl.exe.manifest
+F:\hcj文档\资料\workspace_hcj\hanhai\Membran_control\Membran_Contorl0829A-hcj 副本\Membran_Contorl\bin\Debug\Membran_Contorl.application
+F:\hcj文档\资料\workspace_hcj\hanhai\Membran_control\Membran_Contorl0829A-hcj 副本\Membran_Contorl\bin\Debug\Membran_Contorl.exe
+F:\hcj文档\资料\workspace_hcj\hanhai\Membran_control\Membran_Contorl0829A-hcj 副本\Membran_Contorl\bin\Debug\Membran_Contorl.pdb
+F:\hcj文档\资料\workspace_hcj\hanhai\Membran_control\Membran_Contorl0829A-hcj 副本\Membran_Contorl\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+F:\hcj文档\资料\workspace_hcj\hanhai\Membran_control\Membran_Contorl0829A-hcj 副本\Membran_Contorl\obj\Debug\Membran_Contorl.csprojResolveAssemblyReference.cache
+F:\hcj文档\资料\workspace_hcj\hanhai\Membran_control\Membran_Contorl0829A-hcj 副本\Membran_Contorl\obj\Debug\Membran_Contorl.Form1.resources
+F:\hcj文档\资料\workspace_hcj\hanhai\Membran_control\Membran_Contorl0829A-hcj 副本\Membran_Contorl\obj\Debug\Membran_Contorl.Properties.Resources.resources
+F:\hcj文档\资料\workspace_hcj\hanhai\Membran_control\Membran_Contorl0829A-hcj 副本\Membran_Contorl\obj\Debug\Membran_Contorl.csproj.GenerateResource.Cache
+F:\hcj文档\资料\workspace_hcj\hanhai\Membran_control\Membran_Contorl0829A-hcj 副本\Membran_Contorl\obj\Debug\Membran_Contorl.exe.manifest
+F:\hcj文档\资料\workspace_hcj\hanhai\Membran_control\Membran_Contorl0829A-hcj 副本\Membran_Contorl\obj\Debug\Membran_Contorl.application
+F:\hcj文档\资料\workspace_hcj\hanhai\Membran_control\Membran_Contorl0916A\Membran_Contorl\bin\Debug\Membran_Contorl.exe.config
+F:\hcj文档\资料\workspace_hcj\hanhai\Membran_control\Membran_Contorl0916A\Membran_Contorl\obj\Debug\Membran_Contorl.exe
+F:\hcj文档\资料\workspace_hcj\hanhai\Membran_control\Membran_Contorl0916A\Membran_Contorl\obj\Debug\Membran_Contorl.pdb
+F:\hcj文档\资料\workspace_hcj\hanhai\Membran_control\Membran_Contorl0916A\Membran_Contorl\bin\Debug\Membran_Contorl.exe.manifest
+F:\hcj文档\资料\workspace_hcj\hanhai\Membran_control\Membran_Contorl0916A\Membran_Contorl\bin\Debug\Membran_Contorl.application
+F:\hcj文档\资料\workspace_hcj\hanhai\Membran_control\Membran_Contorl0916A\Membran_Contorl\bin\Debug\Membran_Contorl.exe
+F:\hcj文档\资料\workspace_hcj\hanhai\Membran_control\Membran_Contorl0916A\Membran_Contorl\bin\Debug\Membran_Contorl.pdb
+F:\hcj文档\资料\workspace_hcj\hanhai\Membran_control\Membran_Contorl0916A\Membran_Contorl\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+F:\hcj文档\资料\workspace_hcj\hanhai\Membran_control\Membran_Contorl0916A\Membran_Contorl\obj\Debug\Membran_Contorl.csprojResolveAssemblyReference.cache
+F:\hcj文档\资料\workspace_hcj\hanhai\Membran_control\Membran_Contorl0916A\Membran_Contorl\obj\Debug\Membran_Contorl.Form1.resources
+F:\hcj文档\资料\workspace_hcj\hanhai\Membran_control\Membran_Contorl0916A\Membran_Contorl\obj\Debug\Membran_Contorl.Properties.Resources.resources
+F:\hcj文档\资料\workspace_hcj\hanhai\Membran_control\Membran_Contorl0916A\Membran_Contorl\obj\Debug\Membran_Contorl.csproj.GenerateResource.Cache
+F:\hcj文档\资料\workspace_hcj\hanhai\Membran_control\Membran_Contorl0916A\Membran_Contorl\obj\Debug\Membran_Contorl.exe.manifest
+F:\hcj文档\资料\workspace_hcj\hanhai\Membran_control\Membran_Contorl0916A\Membran_Contorl\obj\Debug\Membran_Contorl.application
+F:\hcj文档\资料\workspace_hcj\hanhai\Membran_control\Membran_Contorl0927A\Membran_Contorl\bin\Debug\Membran_Contorl.exe.config
+F:\hcj文档\资料\workspace_hcj\hanhai\Membran_control\Membran_Contorl0927A\Membran_Contorl\obj\Debug\Membran_Contorl.exe
+F:\hcj文档\资料\workspace_hcj\hanhai\Membran_control\Membran_Contorl0927A\Membran_Contorl\obj\Debug\Membran_Contorl.pdb
+F:\hcj文档\资料\workspace_hcj\hanhai\Membran_control\Membran_Contorl0927A\Membran_Contorl\bin\Debug\Membran_Contorl.exe.manifest
+F:\hcj文档\资料\workspace_hcj\hanhai\Membran_control\Membran_Contorl0927A\Membran_Contorl\bin\Debug\Membran_Contorl.application
+F:\hcj文档\资料\workspace_hcj\hanhai\Membran_control\Membran_Contorl0927A\Membran_Contorl\bin\Debug\Membran_Contorl.exe
+F:\hcj文档\资料\workspace_hcj\hanhai\Membran_control\Membran_Contorl0927A\Membran_Contorl\bin\Debug\Membran_Contorl.pdb
+F:\hcj文档\资料\workspace_hcj\hanhai\Membran_control\Membran_Contorl0927A\Membran_Contorl\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+F:\hcj文档\资料\workspace_hcj\hanhai\Membran_control\Membran_Contorl0927A\Membran_Contorl\obj\Debug\Membran_Contorl.csprojResolveAssemblyReference.cache
+F:\hcj文档\资料\workspace_hcj\hanhai\Membran_control\Membran_Contorl0927A\Membran_Contorl\obj\Debug\Membran_Contorl.Form1.resources
+F:\hcj文档\资料\workspace_hcj\hanhai\Membran_control\Membran_Contorl0927A\Membran_Contorl\obj\Debug\Membran_Contorl.Properties.Resources.resources
+F:\hcj文档\资料\workspace_hcj\hanhai\Membran_control\Membran_Contorl0927A\Membran_Contorl\obj\Debug\Membran_Contorl.csproj.GenerateResource.Cache
+F:\hcj文档\资料\workspace_hcj\hanhai\Membran_control\Membran_Contorl0927A\Membran_Contorl\obj\Debug\Membran_Contorl.exe.manifest
+F:\hcj文档\资料\workspace_hcj\hanhai\Membran_control\Membran_Contorl0927A\Membran_Contorl\obj\Debug\Membran_Contorl.application
+F:\hcj文档\资料\workspace_hcj\hanhai\Membran_control\Membran_Contorl1002A\Membran_Contorl\bin\Debug\Membran_Contorl.exe.config
+F:\hcj文档\资料\workspace_hcj\hanhai\Membran_control\Membran_Contorl1002A\Membran_Contorl\obj\Debug\Membran_Contorl.exe
+F:\hcj文档\资料\workspace_hcj\hanhai\Membran_control\Membran_Contorl1002A\Membran_Contorl\obj\Debug\Membran_Contorl.pdb
+F:\hcj文档\资料\workspace_hcj\hanhai\Membran_control\Membran_Contorl1002A\Membran_Contorl\bin\Debug\Membran_Contorl.exe.manifest
+F:\hcj文档\资料\workspace_hcj\hanhai\Membran_control\Membran_Contorl1002A\Membran_Contorl\bin\Debug\Membran_Contorl.application
+F:\hcj文档\资料\workspace_hcj\hanhai\Membran_control\Membran_Contorl1002A\Membran_Contorl\bin\Debug\Membran_Contorl.exe
+F:\hcj文档\资料\workspace_hcj\hanhai\Membran_control\Membran_Contorl1002A\Membran_Contorl\bin\Debug\Membran_Contorl.pdb
+F:\hcj文档\资料\workspace_hcj\hanhai\Membran_control\Membran_Contorl1002A\Membran_Contorl\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+F:\hcj文档\资料\workspace_hcj\hanhai\Membran_control\Membran_Contorl1002A\Membran_Contorl\obj\Debug\Membran_Contorl.csprojResolveAssemblyReference.cache
+F:\hcj文档\资料\workspace_hcj\hanhai\Membran_control\Membran_Contorl1002A\Membran_Contorl\obj\Debug\Membran_Contorl.Form1.resources
+F:\hcj文档\资料\workspace_hcj\hanhai\Membran_control\Membran_Contorl1002A\Membran_Contorl\obj\Debug\Membran_Contorl.Properties.Resources.resources
+F:\hcj文档\资料\workspace_hcj\hanhai\Membran_control\Membran_Contorl1002A\Membran_Contorl\obj\Debug\Membran_Contorl.csproj.GenerateResource.Cache
+F:\hcj文档\资料\workspace_hcj\hanhai\Membran_control\Membran_Contorl1002A\Membran_Contorl\obj\Debug\Membran_Contorl.exe.manifest
+F:\hcj文档\资料\workspace_hcj\hanhai\Membran_control\Membran_Contorl1002A\Membran_Contorl\obj\Debug\Membran_Contorl.application
+F:\hcj文档\资料\workspace_hcj\hanhai\Membran_control\Membran_Contorl1010A\Membran_Contorl\bin\Debug\Membran_Contorl.exe.config
+F:\hcj文档\资料\workspace_hcj\hanhai\Membran_control\Membran_Contorl1010A\Membran_Contorl\bin\Debug\Membran_Contorl.exe.manifest
+F:\hcj文档\资料\workspace_hcj\hanhai\Membran_control\Membran_Contorl1010A\Membran_Contorl\bin\Debug\Membran_Contorl.application
+F:\hcj文档\资料\workspace_hcj\hanhai\Membran_control\Membran_Contorl1010A\Membran_Contorl\bin\Debug\Membran_Contorl.exe
+F:\hcj文档\资料\workspace_hcj\hanhai\Membran_control\Membran_Contorl1010A\Membran_Contorl\bin\Debug\Membran_Contorl.pdb
+F:\hcj文档\资料\workspace_hcj\hanhai\Membran_control\Membran_Contorl1010A\Membran_Contorl\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+F:\hcj文档\资料\workspace_hcj\hanhai\Membran_control\Membran_Contorl1010A\Membran_Contorl\obj\Debug\Membran_Contorl.csprojResolveAssemblyReference.cache
+F:\hcj文档\资料\workspace_hcj\hanhai\Membran_control\Membran_Contorl1010A\Membran_Contorl\obj\Debug\Membran_Contorl.Form1.resources
+F:\hcj文档\资料\workspace_hcj\hanhai\Membran_control\Membran_Contorl1010A\Membran_Contorl\obj\Debug\Membran_Contorl.Properties.Resources.resources
+F:\hcj文档\资料\workspace_hcj\hanhai\Membran_control\Membran_Contorl1010A\Membran_Contorl\obj\Debug\Membran_Contorl.csproj.GenerateResource.Cache
+F:\hcj文档\资料\workspace_hcj\hanhai\Membran_control\Membran_Contorl1010A\Membran_Contorl\obj\Debug\Membran_Contorl.exe.manifest
+F:\hcj文档\资料\workspace_hcj\hanhai\Membran_control\Membran_Contorl1010A\Membran_Contorl\obj\Debug\Membran_Contorl.application
+F:\hcj文档\资料\workspace_hcj\hanhai\Membran_control\Membran_Contorl1010A\Membran_Contorl\obj\Debug\Membran_Contorl.exe
+F:\hcj文档\资料\workspace_hcj\hanhai\Membran_control\Membran_Contorl1010A\Membran_Contorl\obj\Debug\Membran_Contorl.pdb
+F:\hcj文档\资料\workspace_hcj\hanhai\Membran_control\Membran_Contorl1012A\Membran_Contorl\bin\Debug\Membran_Contorl.exe.config
+F:\hcj文档\资料\workspace_hcj\hanhai\Membran_control\Membran_Contorl1012A\Membran_Contorl\obj\Debug\Membran_Contorl.exe
+F:\hcj文档\资料\workspace_hcj\hanhai\Membran_control\Membran_Contorl1012A\Membran_Contorl\obj\Debug\Membran_Contorl.pdb
+F:\hcj文档\资料\workspace_hcj\hanhai\Membran_control\Membran_Contorl1012A\Membran_Contorl\bin\Debug\Membran_Contorl.exe.manifest
+F:\hcj文档\资料\workspace_hcj\hanhai\Membran_control\Membran_Contorl1012A\Membran_Contorl\bin\Debug\Membran_Contorl.application
+F:\hcj文档\资料\workspace_hcj\hanhai\Membran_control\Membran_Contorl1012A\Membran_Contorl\bin\Debug\Membran_Contorl.exe
+F:\hcj文档\资料\workspace_hcj\hanhai\Membran_control\Membran_Contorl1012A\Membran_Contorl\bin\Debug\Membran_Contorl.pdb
+F:\hcj文档\资料\workspace_hcj\hanhai\Membran_control\Membran_Contorl1012A\Membran_Contorl\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+F:\hcj文档\资料\workspace_hcj\hanhai\Membran_control\Membran_Contorl1012A\Membran_Contorl\obj\Debug\Membran_Contorl.csprojResolveAssemblyReference.cache
+F:\hcj文档\资料\workspace_hcj\hanhai\Membran_control\Membran_Contorl1012A\Membran_Contorl\obj\Debug\Membran_Contorl.Form1.resources
+F:\hcj文档\资料\workspace_hcj\hanhai\Membran_control\Membran_Contorl1012A\Membran_Contorl\obj\Debug\Membran_Contorl.Properties.Resources.resources
+F:\hcj文档\资料\workspace_hcj\hanhai\Membran_control\Membran_Contorl1012A\Membran_Contorl\obj\Debug\Membran_Contorl.csproj.GenerateResource.Cache
+F:\hcj文档\资料\workspace_hcj\hanhai\Membran_control\Membran_Contorl1012A\Membran_Contorl\obj\Debug\Membran_Contorl.exe.manifest
+F:\hcj文档\资料\workspace_hcj\hanhai\Membran_control\Membran_Contorl1012A\Membran_Contorl\obj\Debug\Membran_Contorl.application
+F:\hcj文档\资料\workspace_hcj\hanhai\Membran_control\Membran_Contorl1014A\Membran_Contorl\bin\Debug\Membran_Contorl.exe.config
+F:\hcj文档\资料\workspace_hcj\hanhai\Membran_control\Membran_Contorl1014A\Membran_Contorl\obj\Debug\Membran_Contorl.exe
+F:\hcj文档\资料\workspace_hcj\hanhai\Membran_control\Membran_Contorl1014A\Membran_Contorl\obj\Debug\Membran_Contorl.pdb
+F:\hcj文档\资料\workspace_hcj\hanhai\Membran_control\Membran_Contorl1014A\Membran_Contorl\bin\Debug\Membran_Contorl.exe.manifest
+F:\hcj文档\资料\workspace_hcj\hanhai\Membran_control\Membran_Contorl1014A\Membran_Contorl\bin\Debug\Membran_Contorl.application
+F:\hcj文档\资料\workspace_hcj\hanhai\Membran_control\Membran_Contorl1014A\Membran_Contorl\bin\Debug\Membran_Contorl.exe
+F:\hcj文档\资料\workspace_hcj\hanhai\Membran_control\Membran_Contorl1014A\Membran_Contorl\bin\Debug\Membran_Contorl.pdb
+F:\hcj文档\资料\workspace_hcj\hanhai\Membran_control\Membran_Contorl1014A\Membran_Contorl\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+F:\hcj文档\资料\workspace_hcj\hanhai\Membran_control\Membran_Contorl1014A\Membran_Contorl\obj\Debug\Membran_Contorl.csprojResolveAssemblyReference.cache
+F:\hcj文档\资料\workspace_hcj\hanhai\Membran_control\Membran_Contorl1014A\Membran_Contorl\obj\Debug\Membran_Contorl.Form1.resources
+F:\hcj文档\资料\workspace_hcj\hanhai\Membran_control\Membran_Contorl1014A\Membran_Contorl\obj\Debug\Membran_Contorl.Properties.Resources.resources
+F:\hcj文档\资料\workspace_hcj\hanhai\Membran_control\Membran_Contorl1014A\Membran_Contorl\obj\Debug\Membran_Contorl.csproj.GenerateResource.Cache
+F:\hcj文档\资料\workspace_hcj\hanhai\Membran_control\Membran_Contorl1014A\Membran_Contorl\obj\Debug\Membran_Contorl.exe.manifest
+F:\hcj文档\资料\workspace_hcj\hanhai\Membran_control\Membran_Contorl1014A\Membran_Contorl\obj\Debug\Membran_Contorl.application
+F:\hcj文档\资料\workspace_hcj\hanhai\Membran_control\Membran_Contorl1024A\Membran_Contorl\bin\Debug\Membran_Contorl.exe.config
+F:\hcj文档\资料\workspace_hcj\hanhai\Membran_control\Membran_Contorl1024A\Membran_Contorl\obj\Debug\Membran_Contorl.exe
+F:\hcj文档\资料\workspace_hcj\hanhai\Membran_control\Membran_Contorl1024A\Membran_Contorl\obj\Debug\Membran_Contorl.pdb
+F:\hcj文档\资料\workspace_hcj\hanhai\Membran_control\Membran_Contorl1024A\Membran_Contorl\bin\Debug\Membran_Contorl.exe.manifest
+F:\hcj文档\资料\workspace_hcj\hanhai\Membran_control\Membran_Contorl1024A\Membran_Contorl\bin\Debug\Membran_Contorl.application
+F:\hcj文档\资料\workspace_hcj\hanhai\Membran_control\Membran_Contorl1024A\Membran_Contorl\bin\Debug\Membran_Contorl.exe
+F:\hcj文档\资料\workspace_hcj\hanhai\Membran_control\Membran_Contorl1024A\Membran_Contorl\bin\Debug\Membran_Contorl.pdb
+F:\hcj文档\资料\workspace_hcj\hanhai\Membran_control\Membran_Contorl1024A\Membran_Contorl\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+F:\hcj文档\资料\workspace_hcj\hanhai\Membran_control\Membran_Contorl1024A\Membran_Contorl\obj\Debug\Membran_Contorl.Form1.resources
+F:\hcj文档\资料\workspace_hcj\hanhai\Membran_control\Membran_Contorl1024A\Membran_Contorl\obj\Debug\Membran_Contorl.Properties.Resources.resources
+F:\hcj文档\资料\workspace_hcj\hanhai\Membran_control\Membran_Contorl1024A\Membran_Contorl\obj\Debug\Membran_Contorl.csproj.GenerateResource.Cache
+F:\hcj文档\资料\workspace_hcj\hanhai\Membran_control\Membran_Contorl1024A\Membran_Contorl\obj\Debug\Membran_Contorl.exe.manifest
+F:\hcj文档\资料\workspace_hcj\hanhai\Membran_control\Membran_Contorl1024A\Membran_Contorl\obj\Debug\Membran_Contorl.application
+F:\hcj文档\资料\workspace_hcj\hanhai\Membran_control\Membran_Contorl1024A\Membran_Contorl\obj\Debug\Membran_Contorl.csprojResolveAssemblyReference.cache
+F:\hcj文档\资料\workspace_hcj\hanhai\Membran_control\Membran_Contorl1031A\Membran_Contorl\bin\Debug\Membran_Contorl.exe.config
+F:\hcj文档\资料\workspace_hcj\hanhai\Membran_control\Membran_Contorl1031A\Membran_Contorl\obj\Debug\Membran_Contorl.exe
+F:\hcj文档\资料\workspace_hcj\hanhai\Membran_control\Membran_Contorl1031A\Membran_Contorl\obj\Debug\Membran_Contorl.pdb
+F:\hcj文档\资料\workspace_hcj\hanhai\Membran_control\Membran_Contorl1031A\Membran_Contorl\bin\Debug\Membran_Contorl.exe.manifest
+F:\hcj文档\资料\workspace_hcj\hanhai\Membran_control\Membran_Contorl1031A\Membran_Contorl\bin\Debug\Membran_Contorl.application
+F:\hcj文档\资料\workspace_hcj\hanhai\Membran_control\Membran_Contorl1031A\Membran_Contorl\bin\Debug\Membran_Contorl.exe
+F:\hcj文档\资料\workspace_hcj\hanhai\Membran_control\Membran_Contorl1031A\Membran_Contorl\bin\Debug\Membran_Contorl.pdb
+F:\hcj文档\资料\workspace_hcj\hanhai\Membran_control\Membran_Contorl1031A\Membran_Contorl\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+F:\hcj文档\资料\workspace_hcj\hanhai\Membran_control\Membran_Contorl1031A\Membran_Contorl\obj\Debug\Membran_Contorl.csprojResolveAssemblyReference.cache
+F:\hcj文档\资料\workspace_hcj\hanhai\Membran_control\Membran_Contorl1031A\Membran_Contorl\obj\Debug\Membran_Contorl.Form1.resources
+F:\hcj文档\资料\workspace_hcj\hanhai\Membran_control\Membran_Contorl1031A\Membran_Contorl\obj\Debug\Membran_Contorl.Properties.Resources.resources
+F:\hcj文档\资料\workspace_hcj\hanhai\Membran_control\Membran_Contorl1031A\Membran_Contorl\obj\Debug\Membran_Contorl.csproj.GenerateResource.Cache
+F:\hcj文档\资料\workspace_hcj\hanhai\Membran_control\Membran_Contorl1031A\Membran_Contorl\obj\Debug\Membran_Contorl.exe.manifest
+F:\hcj文档\资料\workspace_hcj\hanhai\Membran_control\Membran_Contorl1031A\Membran_Contorl\obj\Debug\Membran_Contorl.application
+F:\hcj文档\资料\workspace_hcj\hanhai\Membran_control\Membran_Contorl1102A\Membran_Contorl\bin\Debug\Membran_Contorl.exe.config
+F:\hcj文档\资料\workspace_hcj\hanhai\Membran_control\Membran_Contorl1102A\Membran_Contorl\obj\Debug\Membran_Contorl.exe
+F:\hcj文档\资料\workspace_hcj\hanhai\Membran_control\Membran_Contorl1102A\Membran_Contorl\obj\Debug\Membran_Contorl.pdb
+F:\hcj文档\资料\workspace_hcj\hanhai\Membran_control\Membran_Contorl1107A\Membran_Contorl\bin\Debug\Membran_Contorl.exe.config
+F:\hcj文档\资料\workspace_hcj\hanhai\Membran_control\Membran_Contorl1107A\Membran_Contorl\obj\Debug\Membran_Contorl.exe
+F:\hcj文档\资料\workspace_hcj\hanhai\Membran_control\Membran_Contorl1107A\Membran_Contorl\obj\Debug\Membran_Contorl.pdb
+F:\hcj文档\资料\workspace_hcj\hanhai\Membran_control\Membran_Contorl1107A\Membran_Contorl\bin\Debug\Membran_Contorl.exe.manifest
+F:\hcj文档\资料\workspace_hcj\hanhai\Membran_control\Membran_Contorl1107A\Membran_Contorl\bin\Debug\Membran_Contorl.application
+F:\hcj文档\资料\workspace_hcj\hanhai\Membran_control\Membran_Contorl1107A\Membran_Contorl\bin\Debug\Membran_Contorl.exe
+F:\hcj文档\资料\workspace_hcj\hanhai\Membran_control\Membran_Contorl1107A\Membran_Contorl\bin\Debug\Membran_Contorl.pdb
+F:\hcj文档\资料\workspace_hcj\hanhai\Membran_control\Membran_Contorl1107A\Membran_Contorl\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+F:\hcj文档\资料\workspace_hcj\hanhai\Membran_control\Membran_Contorl1107A\Membran_Contorl\obj\Debug\Membran_Contorl.csprojResolveAssemblyReference.cache
+F:\hcj文档\资料\workspace_hcj\hanhai\Membran_control\Membran_Contorl1107A\Membran_Contorl\obj\Debug\Membran_Contorl.Form1.resources
+F:\hcj文档\资料\workspace_hcj\hanhai\Membran_control\Membran_Contorl1107A\Membran_Contorl\obj\Debug\Membran_Contorl.Properties.Resources.resources
+F:\hcj文档\资料\workspace_hcj\hanhai\Membran_control\Membran_Contorl1107A\Membran_Contorl\obj\Debug\Membran_Contorl.csproj.GenerateResource.Cache
+F:\hcj文档\资料\workspace_hcj\hanhai\Membran_control\Membran_Contorl1107A\Membran_Contorl\obj\Debug\Membran_Contorl.exe.manifest
+F:\hcj文档\资料\workspace_hcj\hanhai\Membran_control\Membran_Contorl1107A\Membran_Contorl\obj\Debug\Membran_Contorl.application
