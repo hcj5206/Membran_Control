@@ -432,3 +432,17 @@ F:\hcj文档\资料\workspace_hcj\hanhai\Membran_control\Membran_Contorl1107A\Me
 F:\hcj文档\资料\workspace_hcj\hanhai\Membran_control\Membran_Contorl1107A\Membran_Contorl\obj\Debug\Membran_Contorl.csproj.GenerateResource.Cache
 F:\hcj文档\资料\workspace_hcj\hanhai\Membran_control\Membran_Contorl1107A\Membran_Contorl\obj\Debug\Membran_Contorl.exe.manifest
 F:\hcj文档\资料\workspace_hcj\hanhai\Membran_control\Membran_Contorl1107A\Membran_Contorl\obj\Debug\Membran_Contorl.application
+F:\git\Hanhai_Code\Membran_Control\dev_Membran_Contorl_V1.0\Membran_Contorl\bin\Debug\Membran_Contorl.exe.config
+F:\git\Hanhai_Code\Membran_Control\dev_Membran_Contorl_V1.0\Membran_Contorl\obj\Debug\Membran_Contorl.exe
+F:\git\Hanhai_Code\Membran_Control\dev_Membran_Contorl_V1.0\Membran_Contorl\obj\Debug\Membran_Contorl.pdb
+F:\git\Hanhai_Code\Membran_Control\dev_Membran_Contorl_V1.0\Membran_Contorl\bin\Debug\Membran_Contorl.exe.manifest
+F:\git\Hanhai_Code\Membran_Control\dev_Membran_Contorl_V1.0\Membran_Contorl\bin\Debug\Membran_Contorl.application
+F:\git\Hanhai_Code\Membran_Control\dev_Membran_Contorl_V1.0\Membran_Contorl\bin\Debug\Membran_Contorl.exe
+F:\git\Hanhai_Code\Membran_Control\dev_Membran_Contorl_V1.0\Membran_Contorl\bin\Debug\Membran_Contorl.pdb
+F:\git\Hanhai_Code\Membran_Control\dev_Membran_Contorl_V1.0\Membran_Contorl\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+F:\git\Hanhai_Code\Membran_Control\dev_Membran_Contorl_V1.0\Membran_Contorl\obj\Debug\Membran_Contorl.csprojResolveAssemblyReference.cache
+F:\git\Hanhai_Code\Membran_Control\dev_Membran_Contorl_V1.0\Membran_Contorl\obj\Debug\Membran_Contorl.Form1.resources
+F:\git\Hanhai_Code\Membran_Control\dev_Membran_Contorl_V1.0\Membran_Contorl\obj\Debug\Membran_Contorl.Properties.Resources.resources
+F:\git\Hanhai_Code\Membran_Control\dev_Membran_Contorl_V1.0\Membran_Contorl\obj\Debug\Membran_Contorl.csproj.GenerateResource.Cache
+F:\git\Hanhai_Code\Membran_Control\dev_Membran_Contorl_V1.0\Membran_Contorl\obj\Debug\Membran_Contorl.exe.manifest
+F:\git\Hanhai_Code\Membran_Control\dev_Membran_Contorl_V1.0\Membran_Contorl\obj\Debug\Membran_Contorl.application

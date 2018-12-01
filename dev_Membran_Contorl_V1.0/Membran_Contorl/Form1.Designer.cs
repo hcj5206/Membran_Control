@@ -291,7 +291,7 @@ namespace Membran_Contorl
             this.Version_label.Name = "Version_label";
             this.Version_label.Size = new System.Drawing.Size(87, 15);
             this.Version_label.TabIndex = 14;
-            this.Version_label.Text = "V20181107A";
+            this.Version_label.Text = "V20181201A";
             this.Version_label.Click += new System.EventHandler(this.Version_label_Click);
             // 
             // factory_name

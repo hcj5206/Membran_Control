@@ -704,11 +704,13 @@ namespace Membran_Contorl
                             {
                                 lb_error.Text = "错误,该零件尚未喷胶!";
                                 lb_error.Visible = true;
+                                return;
                             }
                             if (Element_state > Convert.ToInt32(Menbran_config.Default.State_done))
                             {
                                 lb_error.Text = "错误,该零件已完成模压";
                                 lb_error.Visible = true;
+                                return;
                             }
                         }
                     }
@@ -720,7 +722,7 @@ namespace Membran_Contorl
                     {
                         mysql.Close();
                     }
-                    String sql_find_bj = "SELECT `Membrane_work_order_ap_id`,`Id`,`Contract_id`,`Order_id` FROM `order_element_online` WHERE `Code`='" + bj_id + "'and `Element_type_id` in (1,3,9,4,5,6) and `State`='"+Menbran_config.Default.State_undone+"'";
+                    String sql_find_bj = "SELECT `Membrane_work_order_ap_id`,`Id`,`Contract_id`,`Order_id` FROM `order_element_online` WHERE `Code`='" + bj_id + "'and `Element_type_id` in (1,3,9,4,5,6) and `State`>='" + Menbran_config.Default.State_undone + "'";
                     MySqlCommand mySqlCommand_find_bj = getSqlCommand(sql_find_bj, mysql);
                     try
                     {
@@ -730,6 +732,7 @@ namespace Membran_Contorl
                         if (reader_bj.HasRows)
                         {
                             lb_error.Visible = false;
+
                             ap_id_this = reader_bj.GetString(0);
                             Id_this = reader_bj.GetString(1);
                             Contract_id= reader_bj.GetString(2);
